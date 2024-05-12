@@ -2,8 +2,8 @@
 👀 I’m interested in Management, Development
 🌱 I’m currently learning :
 Java
-Python
-Design principles
+Python (Django)
+Design principles and patterns
 SDLC
 --Contact--
 email: zohainzahid23@gmail.com
