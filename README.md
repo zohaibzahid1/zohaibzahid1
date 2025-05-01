@@ -2,7 +2,8 @@
 👀 I’m interested in Management, Development
 🌱 I’m currently learning :
 Java
-Python (Django)
+React
+Javascript
 Design principles and patterns
 SDLC
 --Contact--
