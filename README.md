@@ -10,4 +10,4 @@ JavaScript.
 Learning Design Principles, Design Patterns, and the Software Development Life Cycle (SDLC)
 📬 Contact
 Email: zohainzahid23@gmail.com
-LinkedIn: linkedin.com/in/zohaib-zahid-003b54242
+LinkedIn: https://www.linkedin.com/in/zohaib-zahid-003b54242/
