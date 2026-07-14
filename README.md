@@ -127,47 +127,6 @@ shell:       /bin/curiosity
      NestJS • Next.js • PostgreSQL • TypeORM
 ```
 
-<details open>
-<summary><b>🩺 expand: Medical Image Analysis (FYP)</b> <sub>(flagship project)</sub></summary>
-<br>
-A deep learning system for MRI, CT, and X-ray analysis using CNNs, U-Net segmentation, and multimodal learning — bridging AI research and clinical utility.
-</details>
-
-<details>
-<summary><b>🏕️ expand: CampMinder</b></summary>
-<br>
-My largest full-stack build to date — an end-to-end platform spanning a .NET backend, React/Next.js frontend, and Azure cloud infrastructure. Covers everything from API design to deployment pipelines at production scale.
-</details>
-
-<details>
-<summary><b>💬 expand: Italk</b></summary>
-<br>
-A real-time messaging platform supporting private chats, group conversations, typing indicators, authentication, and GraphQL APIs — built for speed and low-latency delivery.
-</details>
-
-<details>
-<summary><b>🚗 expand: Carloo</b></summary>
-<br>
-A production-ready car rental platform with authentication, vehicle management, reviews, an admin dashboard, and automated email workflows.
-</details>
-
-<details>
-<summary><b>📊 expand: Employee Evaluation System</b></summary>
-<br>
-A full-stack evaluation platform actively deployed internally, streamlining performance reviews end to end.
-</details>
-
----
-
-
-### `$ git log --author=zohaib --graph --all` (Commit Activity)
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaibzahid1&theme=matrix&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true" />
-</div>
-
----
-
 ## 📶 `$ ping zohaib --contact`
 
 <div align="center">
@@ -185,7 +144,4 @@ A full-stack evaluation platform actively deployed internally, streamlining perf
 ```
 > Connection established. Awaiting pull requests...
 ```
-
-<i>"I enjoy building software that solves real-world problems — from scalable backend systems to AI-powered applications."</i>
-
 </div>
