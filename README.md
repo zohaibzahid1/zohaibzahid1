@@ -9,7 +9,7 @@
  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;.NET+%7C+React+%7C+FastAPI+%7C+PostgreSQL;Training+neural+nets+to+read+X-rays;sudo+make+me+a+sandwich" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;TS+%7C+NEXT+%7C+FastAPI+%7C+PostgreSQL;Training+neural+nets+to+read+X-rays;sudo+make+me+a+sandwich" alt="Typing SVG" />
 
 </div>
 
@@ -159,19 +159,11 @@ A full-stack evaluation platform actively deployed internally, streamlining perf
 
 ---
 
-## 📊 Runtime Stats
+
+### `$ git log --author=zohaib --graph --all` (Commit Activity)
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zohaibzahid1&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibzahid1&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibzahid1&theme=matrix&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaibzahid1&theme=matrix&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaibzahid1&theme=matrix&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true" />
 </div>
 
 ---
